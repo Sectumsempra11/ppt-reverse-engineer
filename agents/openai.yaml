@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Reverse Engineer"
+  short_description: "从PPT截图反推版式、配色和重建提示词。"
+  default_prompt: "Use $ppt-reverse-engineer to reverse engineer this PPT slide screenshot into a layout specification, visual system, rebuild prompt, and PPTXGenJS guide."
